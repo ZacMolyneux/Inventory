@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"title": "Steel Gloves",
+		"value": 6,
+		"stats": {
+		"power": 1,
+		"defence": 4,
+		"speed": 2
+		},
+		"description": "Gloves made from steeeel",
+		"stackable": false,
+		"rarity": 2,
+		"slug": "steel_gloves"
+	},
+	{
+		"id": 1,
+		"title": "Wooden Sword",
+		"value": 10,
+		"stats": {
+		"power": 5,
+		"defence": 2,
+		"speed": 7
+		},
+		"description": "A sword made from wood",
+		"stackable": false,
+		"rarity": 1,
+		"slug": "wooden_sword"
+	}
+]
