@@ -23,7 +23,7 @@
 		"speed": 7
 		},
 		"description": "A sword made from wood",
-		"stackable": false,
+		"stackable": true,
 		"rarity": 1,
 		"slug": "wooden_sword"
 	}
